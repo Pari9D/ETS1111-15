@@ -14,7 +14,7 @@ print('----------------------------------------------')
 
 Profile.update({'Department':'EME'})
 for keys,values in Profile.items():
-    print('\n',keys+'=>'+values)
+    print(keys+'=>'+values)
 
 print('-----------------------------------------------')
 

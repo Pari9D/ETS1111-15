@@ -14,6 +14,7 @@ print('\n',X.clear())
 print('\n',Profile,'\n')
 
 players = ["Messi", "Ronaldo", "Neymar"]
+
 print(dict.fromkeys(players,'not played'))
 
-print(players)
+
