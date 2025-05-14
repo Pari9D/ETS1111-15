@@ -6,7 +6,7 @@ print('\n',Fruits,'\n')
 
 Fruits.pop()
 
-print('Removed',Fruits,'\n')
+print('Remaining',Fruits,'\n')
 
 Fruits.clear()
 
